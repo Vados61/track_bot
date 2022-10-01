@@ -16,3 +16,5 @@ for track in five_tracks[0:20]:
     text += f'!play {artist}- {name}\n'
 with open('track.txt', 'w', encoding='utf-8') as file:
     file.write(text)
+
+# Димон поц
