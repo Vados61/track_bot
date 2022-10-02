@@ -1,0 +1,5 @@
+
+yandex_music
+PyAutoGUI
+keyboard
+pyperclip
